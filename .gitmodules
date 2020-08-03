@@ -1,0 +1,6 @@
+[submodule "services\\automated_garden_webapp"]
+	path = services\\automated_garden_webapp
+	url = git@github.com:GuilleOsores/automated_garden_webapp.git
+[submodule "services\\automated_garden_api"]
+	path = services\\automated_garden_api
+	url = git@github.com:GuilleOsores/automated_garden_api.git
